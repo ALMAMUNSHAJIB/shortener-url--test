@@ -37,6 +37,7 @@ Start the MongoDB Server (if not already running):
 
 mongod
 
+
 Run the Application:
 
 npm start
@@ -48,3 +49,6 @@ npm run dev
 Access the API:
 
 The server will start on http://localhost:3000.
+# And test 
+npx jest
+
